@@ -1,2 +1,2 @@
 # Basic Startup Landing Page
-Playing with Bootstrap Layout
+Playing with Bootstrap Grid Layout
