@@ -21,7 +21,12 @@
         </header>
         <div class="buffer col-12"></div>
         <section class="text-center col-12">
-          <button type="button" class="btn btn-dark">Find Out More</button>
+          <button id="mailbtn" type="button" class="btn btn-dark">Find Out More</button>
+          <script type="text/javascript">
+            document.getElementById("mailbtn").onclick = function () {
+                location.href = "/mailpage.html";
+            };
+        </script>
         </section>
       </div>
     </div>
